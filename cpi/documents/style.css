@@ -1,0 +1,14 @@
+html{
+  margin: 0,
+  box-sizing: border-box;
+ }
+
+ body {
+   margin: auto 200px;
+   font-size: 22px;
+   line-height: 35px;
+ }
+
+.right {
+  text-align: right;
+}
